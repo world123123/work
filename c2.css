@@ -1,0 +1,33 @@
+.content {
+    margin: 100px 200px;
+    margin-top: 200px;
+}
+
+.content h3 {
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+.first {
+    display: flex;
+    justify-content: space-between;
+}
+
+.first h4 {
+    margin-top: 30px;
+}
+
+.first div img {
+    width: 260px;
+    margin-top: 10px;
+}
+
+.content div h3 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.clear {
+    clear: both;
+}
